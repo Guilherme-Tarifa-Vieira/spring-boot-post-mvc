@@ -1,0 +1,8 @@
+com\spring\blogspring\services\serviceImpl\PostServiceImpl.class
+com\spring\blogspring\services\PostService.class
+com\spring\blogspring\utils\DummyData.class
+com\spring\blogspring\BlogSpringApplication.class
+com\spring\blogspring\controllers\PostController.class
+com\spring\blogspring\models\Post.class
+com\spring\blogspring\configuration\SecurityConfig.class
+com\spring\blogspring\repositories\PostRepository.class
